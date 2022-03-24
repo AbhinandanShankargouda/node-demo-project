@@ -1,0 +1,8 @@
+{
+    "httpport": 3009,
+    "httpsport": 4000,
+    "mongoclient": "mongodb+srv://abhi_admin:abhi_admin@cluster0-yjtjz.mongodb.net/test?retryWrites=true&w=majority",
+    "log": {
+
+    }
+}
